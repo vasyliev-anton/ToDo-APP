@@ -32,4 +32,4 @@ Among the core goals of this project was to create a single-page application wit
 - The app displays the number of active ToDos to keep users informed.
 - In case of a server error, the app promptly notifies the user.
 
-[todoapp](https://github.com/vasyliev-anton/react_todo-app/blob/master/description/todoapp.gif)
+![todoapp](https://github.com/vasyliev-anton/react_todo-app/blob/master/description/todoapp.gif)
