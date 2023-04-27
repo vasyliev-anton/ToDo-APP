@@ -1,5 +1,7 @@
-# [DEMO LINK](https://vasyliev-anton.github.io/react_todo-app/)
+# ToDo App with API 
+Among the core goals of this project was to create a single-page application with React Router. Furthermore, the form of registration and validation of the user with the server response were implemented by React-hook form. By using React Transition Group, I improved basic animation techniques, including the creation and removal of React components.
 
+# [DEMO LINK](https://vasyliev-anton.github.io/react_todo-app/)
 
 # Technologies used
 - React.js
@@ -30,4 +32,4 @@
 - The app displays the number of active ToDos to keep users informed.
 - In case of a server error, the app promptly notifies the user.
 
-![todoapp](./description/todoapp.gif)
+[todoapp](./description/todoapp.gif)
